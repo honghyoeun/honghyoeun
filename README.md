@@ -1,9 +1,9 @@
-### Hi I'm HyoEun 👋
+### Hi I'm HyoEun 👋🇰🇷
 
-<h4> 👸 Email 👸 </h4>
+<h4> 🌼 Email 🌼 </h4>
 gydms8576@naver.com
 
-<h4> ⭐ Skills ⭐ </h4>
+<h4> 🌻 Skills 🌻 </h4>
 <h5> Platforms </h5>
 <div>
   <img src="https://img.shields.io/badge/Android-F6FFDE?style={스타일}&logo=Android&logoColor={로고 색깔}" />
