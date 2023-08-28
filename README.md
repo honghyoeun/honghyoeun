@@ -1,4 +1,4 @@
-### Hello, I am frontend developer Hyoeun.👋🇰🇷
+### Hi there, I am frontend developer Hyoeun.👋🇰🇷
 
 <h4> 🌼 Email 🌼 </h4>
 gydms8576@naver.com
