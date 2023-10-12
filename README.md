@@ -21,4 +21,8 @@ gydms8576@naver.com
   <img src="https://img.shields.io/badge/Python-FCE9F1?style={스타일}&logo=python&logoColor={로고 색깔}" />
 </div> <hr>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=honghyoeun&show_icons=true&theme=flag-india)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=averak&layout=compact&langs_count=10&hide=html,css) ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=honghyoeun&show_icons=true&theme=flag-india) 
+
+
